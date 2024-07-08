@@ -13,7 +13,3 @@ You can easily perform math operations with this fully functional calculator app
 <h4>IMAGE</h4>
 
 ![](images/calculator-img.png)
-
-<h4>GIF</h4>
-
-![](images/calculator-gif.gif)
