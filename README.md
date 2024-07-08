@@ -1,4 +1,4 @@
-<h1>My Calculator Application</h1>
+<h1>My Calculator website</h1>
 
 You can easily perform math operations with this fully functional calculator application that I developed using HTML5, CSS3, and JavaScript. Besides basic math operations such as addition, subtraction, multiplication, division, and percentage, it also has useful functions such as deleting incorrectly entered numbers and resetting the entire operation. It is a tool that will help you in your daily life with its easy use and stylish design.
 
